@@ -1,14 +1,14 @@
 
 
 ### INSTALL SCRIPT 
-<pre><code>apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/myvpn1/vip/main/kontol.sh && chmod +x kontol.sh && ./kontol.sh
+<pre><code>apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/nurodinahmad34/vip/main/kontol.sh && chmod +x kontol.sh && ./kontol.sh
 </code></pre>
 
 ### PERINTAH UPDATE 
-<pre><code>wget https://raw.githubusercontent.com/myvpn1/vip/main/update.sh && chmod +x update.sh && ./update.sh</code></pre>
+<pre><code>wget https://raw.githubusercontent.com/nurodinahmad34/vip/main/update.sh && chmod +x update.sh && ./update.sh</code></pre>
 
 ### REPO INDONESIA BUAT VPS INDO 
-<pre><code>wget https://raw.githubusercontent.com/myvpn1/vip/main/repoindo.sh && chmod +x repoindo.sh && ./repoindo.sh</code></pre>
+<pre><code>wget https://raw.githubusercontent.com/nurodinahmad34/vip/main/repoindo.sh && chmod +x repoindo.sh && ./repoindo.sh</code></pre>
 
 ### TESTED ON OS 
 - UBUNTU 20.04.05
