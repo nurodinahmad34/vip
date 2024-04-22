@@ -876,7 +876,7 @@ print_success "All Packet"
 function menu(){
     clear
     print_install "Memasang Menu Packet"
-    wget https://raw.githubusercontent.com/nurodinahmad34/vip/limit/main/menu.zip
+    wget https://raw.githubusercontent.com/nurodinahmad34/vip/main/limit/menu.zip
     unzip menu.zip
     chmod +x menu/*
     mv menu/* /usr/local/sbin
